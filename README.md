@@ -18,8 +18,14 @@ hygiene (🪥) is a data preprocessing toolkit that makes it easy to create comm
 ## 💾 Installation
 
 ``` bash
+pip install hygiene-dm
+```
+or 
+``` bash
 python3 setup.py install
 ```
+
+
 
 ## 🤷 Usage
 
