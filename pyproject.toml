@@ -1,0 +1,4 @@
+[project]
+name = "hygiene_dm"
+version = "0.0.1"
+description = "hygiene (🪥) is a data preprocessing toolkit that makes it easy to create common LLM-related data structures; from training data to chain payloads!"
